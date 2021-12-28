@@ -1,12 +1,9 @@
-<ol>
-  <li>Eat</li>
-  <li>Code</li>
-  <li>Sleep</li>
-  <li>repeat</li>
-</ol>
-<ul>
-  <li>Eat</li>
-  <li>Code</li>
-  <li>Sleep</li>
-  <li>repeat</li>
-</ul>
+- Eat
+- Code
+- Sleep
+- repeat
+
+*Eat
+*COde
+*Sleep
+*repeat
